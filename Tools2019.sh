@@ -19,8 +19,8 @@ red="\033[1;31m"
 figlet Tools2019 | lolcat
 
 echo "_____________________________________________________________"
-echo "Tools    : Kumpulan AiFaL Tools $white                         " |lolcat
-echo "Creadby  : AiFaL404 $white                                      " |lolcat
+echo "Tools    : Kumpulan AiFaL Tools $white                       " |lolcat
+echo "Creadby  : AiFaL404 $white                                   " |lolcat
 echo "Contact  : 0852xxxxxxxx   $white                             " |lolcat
 echo "_____________________________________________________________"
 
